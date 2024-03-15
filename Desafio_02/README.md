@@ -2,11 +2,11 @@
 
 <br>
 
-Neste desafio, o recurso de aprendizado de máquina automatizado do Azure *Machine Learning* foi utilizado para treinar e avaliar um modelo de aprendizado de máquina.
+Neste desafio, o recurso Vision Studio da Azure AI foi utilizado para detectar textos e faces em imagens, e produzir legendas a partir de fotos.
 
-Para usar o Azure *Machine Learning*, você precisa provisionar um espaço de trabalho na sua assinatura do Azure. Só assim você poderá usar o estúdio para trabalhar com os recursos em seu espaço de trabalho.
+Para usar o Azure AI, você precisa criar um recurso na sua assinatura do Azure. Só assim você poderá usar o estúdio para trabalhar com os serviços fornecidos no Vison Studio.
 
-Caso ainda não possua um espaço de trabalho, siga as etapas do tópico [**Crie um recurso do Azure AI *Services***](#ancora1). Caso contrário, siga para o tópico [**Conecte seu recurso Azure AI *Service* ao Vision Studio**](#ancora2).
+Caso ainda não possua um recurso, siga as etapas do tópico [**Crie um recurso do Azure AI *Services***](#ancora1). Caso contrário, siga para o tópico [**Conecte seu recurso Azure AI *Service* ao Vision Studio**](#ancora2).
 
 <br>
 
@@ -92,7 +92,7 @@ O serviço Web que você criou está hospedado em uma instância de contêiner d
 
 ## 💭 Considerações
 
-O serviço de reconhecimento de textos em imagens e de rostos em imagens permite inúmeras possibilidades de uso - desde a identificação de pessoas em fotos nas redes sociais até a produção de legendas de imagens para reconhecimento por aplicativos de leitura de tela. Estes recursos facilitam o trabalho de programadores bem como colaboram para a garantia de acessibilidade.
+O serviço de reconhecimento de textos em imagens e de rostos em imagens permite inúmeras possibilidades de uso - desde a identificação de pessoas em fotos nas redes sociais até a produção de legendas de imagens para reconhecimento por aplicativos de leitura de tela. Estes recursos facilitam o trabalho de programadores através da automatização, bem como colaboram para a garantia de acessibilidade.
 
 <br>
 
