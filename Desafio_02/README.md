@@ -82,7 +82,7 @@ Caso ainda não possua um espaço de trabalho, siga as etapas do tópico [**Crie
 
 <br>
 
-## ✏️ Limpeza
+## 🧹 Limpeza
 
 O serviço Web que você criou está hospedado em uma instância de contêiner do Azure. Se você não pretende reutilizá-lo, você deve excluí-lo para evitar o acúmulo de uso desnecessário do Azure.
 
@@ -90,12 +90,13 @@ O serviço Web que você criou está hospedado em uma instância de contêiner d
 
 <br>
 
-## Considerações
+## 💭 Considerações
 
 O serviço de reconhecimento de textos em imagens e de rostos em imagens permite inúmeras possibilidades de uso - desde a identificação de pessoas em fotos nas redes sociais até a produção de legendas de imagens para reconhecimento por aplicativos de leitura de tela. Estes recursos facilitam o trabalho de programadores bem como colaboram para a garantia de acessibilidade.
 
+<br>
 
-## Documentação
+## 📝 Documentação
 
 * [Detect faces in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/04-face.html)
 * [Read text in Vision Studio](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/05-ocr.html)
