@@ -30,45 +30,45 @@
 * Conceitos fundamentais de IA ✔️
 * Versionamento de código com Git e GitHub ✔️
 * Desafios de projeto: crie um portfólio vencedor ✔️
-* **Desafio**: Contribuindo em um projeto *Open Source* no GitHub
+* **Desafio**: Contribuindo em um projeto *Open Source* no GitHub ✔️
 * Desafios de código: aperfeiçoe sua lógica e pensamento computacional ✔️
-* **Desafio**: A base de toda IA: aprendendo lógica com desafios de código
+* **Desafio**: A base de toda IA: aprendendo lógica com desafios de código ✔️
 
 <br>
 <br>
 
 **Introdução ao aprendizado de máquina**
 * Fundamentos do aprendizado de máquina ✔️ 
-* **Desafio**: [Trabalhando com *machine learning* na prática no Azure ML]()
+* **Desafio**: [Trabalhando com *machine learning* na prática no Azure ML](https://github.com/biachristie/dio-bootcamp-microsoft-ai900/tree/main/Desafio_01) ✔️
 
 <br>
 <br>
 
 **Trabalhando com visão computacional**
-* Conceitos de visão computacional 
-* **Desafio**: [Reconhecimento facial e transformação de imagens em dados no Azure ML]()
+* Conceitos de visão computacional ✔️
+* **Desafio**: [Reconhecimento facial e transformação de imagens em dados no Azure ML](https://github.com/biachristie/dio-bootcamp-microsoft-ai900/tree/main/Desafio_02) ✔️
 
 <br>
 <br>
 
 **Processamento de linguagem natural**
-* Conceitos de processamento de linguagem natural 
-* **Desafio**: [Análise de sentimentos com *languange studio* no Azure AI]()
+* Conceitos de processamento de linguagem natural ✔️
+* **Desafio**: [Análise de sentimentos com Language Studio no Azure AI](https://github.com/biachristie/dio-bootcamp-microsoft-ai900/tree/main/Desafio_03) ✔️
 
 <br>
 <br>
 
 **Inteligência de documentos e mineração de conhecimento**
-* Inteligência de documentos de IA do Azure
-* **Desafio**: [Azure Cognitive Search: utilizando AI Search para indexação e consulta de dados]()
+* Inteligência de documentos de IA do Azure ✔️
+* **Desafio**: [Azure Cognitive Search: utilizando AI Search para indexação e consulta de dados](https://github.com/biachristie/dio-bootcamp-microsoft-ai900/tree/main/Desafio_04) ✔️
 
 <br>
 <br>
 
 **Trabalhando com IA generativa**
-* Fundamentos de IA generativa
-* Fundamentos do serviço Azure OpenAI
-* **Desafio**: [Explorando os recursos de IA generativa com Copilot e OpenAI]()
+* Fundamentos de IA generativa ✔️
+* Fundamentos do serviço Azure OpenAI ✔️
+* **Desafio**: [Explorando os recursos de IA generativa com Copilot e OpenAI](https://github.com/biachristie/dio-bootcamp-microsoft-ai900/tree/main/Desafio_05) ✔️
 
 <br>
 <br>
